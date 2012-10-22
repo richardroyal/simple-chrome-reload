@@ -1,6 +1,6 @@
 ## Reload Open Chrome Tab
 
-Failsafe method of reloading an open tab from keyboard shortcut. Will work with any browser that maintains visible a reload button. Great for two monitor development scheme.
+Failsafe method of reloading an open tab from keyboard shortcut without leaving your IDE. Will work with any browser that maintains visible reload button. Great for two monitor development scheme.
 
 
 ## Test and Setup
