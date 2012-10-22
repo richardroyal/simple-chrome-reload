@@ -14,8 +14,8 @@ Add to keyboad shortcuts:
 In Ubuntu, open keyboard settings and go to shortcuts.
 
 For example:
-* `home/big_bird/projects/simple-chrome-reload/reload_open_tab.sh
-* Ctrl+0
+* `home/big_bird/projects/simple-chrome-reload/reload_open_tab.sh`
+* Add a shortcut like: `Ctrl+0`
 
 
 Getting mouse coordinates of reload button on your monitor.
