@@ -18,7 +18,7 @@ For example:
 * Ctrl+0
 
 
-## Getting mouse coordinates of reload button on your monitor
+Getting mouse coordinates of reload button on your monitor.
 
 `xdotool getmouselocation`
 
